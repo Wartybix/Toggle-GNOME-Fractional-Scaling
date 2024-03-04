@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Enable Fractional Scaling
+Comment=Enable fractional scaling on Wayland.
+Exec=/home/wartybix/Repos/toggle-fractional-scaling/enable_frac.sh
+//Icon=/home/wartybix/Pictures/woodpigeon
+Type=Application
+//Path=/usr/bin

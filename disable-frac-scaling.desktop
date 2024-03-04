@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Disable Fractional Scaling
+Comment=Disable fractional scaling on Wayland.
+Exec=/home/wartybix/Repos/toggle-fractional-scaling/disable_frac.sh
+//Icon=/home/wartybix/Pictures/woodpigeon
+Type=Application
+//Path=/usr/bin
